@@ -1,0 +1,19 @@
+.images {
+  height: 70%;
+  width: 60%;
+}
+
+#main_contianer {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  column-gap: 15px;
+  row-gap: 105px;
+}
+.item_holder {
+  margin-top: 20px;
+  margin-left: 20%;
+}
+#insideModal {
+  margin-left: 20%;
+}
